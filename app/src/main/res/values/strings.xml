@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="allClean">AC</string>
+    <string name="clean">C</string>
+    <string name="ternaryQuestion">\?</string>
+    <string name="ternaryColon">:</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">÷</string>
+    <string name="dot">.</string>
+    <string name="equality">=</string>
+    <string name="openingBracket">(</string>
+    <string name="closingBracket">)</string>
+</resources>
